@@ -1,1 +1,2 @@
-# mystrem
+worker: node bot.js
+
